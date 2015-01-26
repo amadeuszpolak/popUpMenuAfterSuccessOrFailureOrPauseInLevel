@@ -16,6 +16,21 @@
 		FADE04A71A764B4900F67821 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FADE04A61A764B4900F67821 /* Images.xcassets */; };
 		FADE04AA1A764B4900F67821 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = FADE04A81A764B4900F67821 /* LaunchScreen.xib */; };
 		FADE04B61A764B4900F67821 /* popUpMenuAfterSuccessOrFailureOrPauseInLevelTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FADE04B51A764B4900F67821 /* popUpMenuAfterSuccessOrFailureOrPauseInLevelTests.m */; };
+		FADE04C11A765BA300F67821 /* popUpMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = FADE04C01A765BA300F67821 /* popUpMenu.m */; };
+		FADE04D11A76718500F67821 /* continue_taped.png in Resources */ = {isa = PBXBuildFile; fileRef = FADE04C31A76718500F67821 /* continue_taped.png */; };
+		FADE04D21A76718500F67821 /* continue.png in Resources */ = {isa = PBXBuildFile; fileRef = FADE04C41A76718500F67821 /* continue.png */; };
+		FADE04D31A76718500F67821 /* levelEndLayer.png in Resources */ = {isa = PBXBuildFile; fileRef = FADE04C51A76718500F67821 /* levelEndLayer.png */; };
+		FADE04D41A76718500F67821 /* levelEndLayerFailed.png in Resources */ = {isa = PBXBuildFile; fileRef = FADE04C61A76718500F67821 /* levelEndLayerFailed.png */; };
+		FADE04D51A76718500F67821 /* lose.png in Resources */ = {isa = PBXBuildFile; fileRef = FADE04C71A76718500F67821 /* lose.png */; };
+		FADE04D61A76718500F67821 /* menu2_taped.png in Resources */ = {isa = PBXBuildFile; fileRef = FADE04C81A76718500F67821 /* menu2_taped.png */; };
+		FADE04D71A76718500F67821 /* menu2.png in Resources */ = {isa = PBXBuildFile; fileRef = FADE04C91A76718500F67821 /* menu2.png */; };
+		FADE04D81A76718500F67821 /* next_level_taped.png in Resources */ = {isa = PBXBuildFile; fileRef = FADE04CA1A76718500F67821 /* next_level_taped.png */; };
+		FADE04D91A76718500F67821 /* next_level.png in Resources */ = {isa = PBXBuildFile; fileRef = FADE04CB1A76718500F67821 /* next_level.png */; };
+		FADE04DA1A76718500F67821 /* pause.png in Resources */ = {isa = PBXBuildFile; fileRef = FADE04CC1A76718500F67821 /* pause.png */; };
+		FADE04DB1A76718500F67821 /* paused.png in Resources */ = {isa = PBXBuildFile; fileRef = FADE04CD1A76718500F67821 /* paused.png */; };
+		FADE04DC1A76718500F67821 /* replay_taped.png in Resources */ = {isa = PBXBuildFile; fileRef = FADE04CE1A76718500F67821 /* replay_taped.png */; };
+		FADE04DD1A76718500F67821 /* replay.png in Resources */ = {isa = PBXBuildFile; fileRef = FADE04CF1A76718500F67821 /* replay.png */; };
+		FADE04DE1A76718500F67821 /* win.png in Resources */ = {isa = PBXBuildFile; fileRef = FADE04D01A76718500F67821 /* win.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +60,22 @@
 		FADE04AF1A764B4900F67821 /* popUpMenuAfterSuccessOrFailureOrPauseInLevelTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = popUpMenuAfterSuccessOrFailureOrPauseInLevelTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FADE04B41A764B4900F67821 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FADE04B51A764B4900F67821 /* popUpMenuAfterSuccessOrFailureOrPauseInLevelTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = popUpMenuAfterSuccessOrFailureOrPauseInLevelTests.m; sourceTree = "<group>"; };
+		FADE04BF1A765BA300F67821 /* popUpMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = popUpMenu.h; sourceTree = "<group>"; };
+		FADE04C01A765BA300F67821 /* popUpMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = popUpMenu.m; sourceTree = "<group>"; };
+		FADE04C31A76718500F67821 /* continue_taped.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = continue_taped.png; path = Images/continue_taped.png; sourceTree = "<group>"; };
+		FADE04C41A76718500F67821 /* continue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = continue.png; path = Images/continue.png; sourceTree = "<group>"; };
+		FADE04C51A76718500F67821 /* levelEndLayer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = levelEndLayer.png; path = Images/levelEndLayer.png; sourceTree = "<group>"; };
+		FADE04C61A76718500F67821 /* levelEndLayerFailed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = levelEndLayerFailed.png; path = Images/levelEndLayerFailed.png; sourceTree = "<group>"; };
+		FADE04C71A76718500F67821 /* lose.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = lose.png; path = Images/lose.png; sourceTree = "<group>"; };
+		FADE04C81A76718500F67821 /* menu2_taped.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = menu2_taped.png; path = Images/menu2_taped.png; sourceTree = "<group>"; };
+		FADE04C91A76718500F67821 /* menu2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = menu2.png; path = Images/menu2.png; sourceTree = "<group>"; };
+		FADE04CA1A76718500F67821 /* next_level_taped.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = next_level_taped.png; path = Images/next_level_taped.png; sourceTree = "<group>"; };
+		FADE04CB1A76718500F67821 /* next_level.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = next_level.png; path = Images/next_level.png; sourceTree = "<group>"; };
+		FADE04CC1A76718500F67821 /* pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pause.png; path = Images/pause.png; sourceTree = "<group>"; };
+		FADE04CD1A76718500F67821 /* paused.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = paused.png; path = Images/paused.png; sourceTree = "<group>"; };
+		FADE04CE1A76718500F67821 /* replay_taped.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = replay_taped.png; path = Images/replay_taped.png; sourceTree = "<group>"; };
+		FADE04CF1A76718500F67821 /* replay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = replay.png; path = Images/replay.png; sourceTree = "<group>"; };
+		FADE04D01A76718500F67821 /* win.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = win.png; path = Images/win.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,11 +122,14 @@
 				FADE049B1A764B4900F67821 /* GameScene.h */,
 				FADE049C1A764B4900F67821 /* GameScene.m */,
 				FADE049E1A764B4900F67821 /* GameScene.sks */,
+				FADE04BF1A765BA300F67821 /* popUpMenu.h */,
+				FADE04C01A765BA300F67821 /* popUpMenu.m */,
 				FADE04A01A764B4900F67821 /* GameViewController.h */,
 				FADE04A11A764B4900F67821 /* GameViewController.m */,
 				FADE04A31A764B4900F67821 /* Main.storyboard */,
 				FADE04A61A764B4900F67821 /* Images.xcassets */,
 				FADE04A81A764B4900F67821 /* LaunchScreen.xib */,
+				FADE04C21A76633D00F67821 /* Images */,
 				FADE04941A764B4900F67821 /* Supporting Files */,
 			);
 			path = popUpMenuAfterSuccessOrFailureOrPauseInLevel;
@@ -125,6 +159,27 @@
 				FADE04B41A764B4900F67821 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FADE04C21A76633D00F67821 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				FADE04C31A76718500F67821 /* continue_taped.png */,
+				FADE04C41A76718500F67821 /* continue.png */,
+				FADE04C51A76718500F67821 /* levelEndLayer.png */,
+				FADE04C61A76718500F67821 /* levelEndLayerFailed.png */,
+				FADE04C71A76718500F67821 /* lose.png */,
+				FADE04C81A76718500F67821 /* menu2_taped.png */,
+				FADE04C91A76718500F67821 /* menu2.png */,
+				FADE04CA1A76718500F67821 /* next_level_taped.png */,
+				FADE04CB1A76718500F67821 /* next_level.png */,
+				FADE04CC1A76718500F67821 /* pause.png */,
+				FADE04CD1A76718500F67821 /* paused.png */,
+				FADE04CE1A76718500F67821 /* replay_taped.png */,
+				FADE04CF1A76718500F67821 /* replay.png */,
+				FADE04D01A76718500F67821 /* win.png */,
+			);
+			name = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -207,10 +262,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FADE04DE1A76718500F67821 /* win.png in Resources */,
+				FADE04DD1A76718500F67821 /* replay.png in Resources */,
+				FADE04DB1A76718500F67821 /* paused.png in Resources */,
 				FADE04AA1A764B4900F67821 /* LaunchScreen.xib in Resources */,
 				FADE04A71A764B4900F67821 /* Images.xcassets in Resources */,
+				FADE04D51A76718500F67821 /* lose.png in Resources */,
 				FADE049F1A764B4900F67821 /* GameScene.sks in Resources */,
+				FADE04D71A76718500F67821 /* menu2.png in Resources */,
+				FADE04D41A76718500F67821 /* levelEndLayerFailed.png in Resources */,
+				FADE04D91A76718500F67821 /* next_level.png in Resources */,
+				FADE04D81A76718500F67821 /* next_level_taped.png in Resources */,
+				FADE04D31A76718500F67821 /* levelEndLayer.png in Resources */,
 				FADE04A51A764B4900F67821 /* Main.storyboard in Resources */,
+				FADE04DA1A76718500F67821 /* pause.png in Resources */,
+				FADE04D21A76718500F67821 /* continue.png in Resources */,
+				FADE04DC1A76718500F67821 /* replay_taped.png in Resources */,
+				FADE04D61A76718500F67821 /* menu2_taped.png in Resources */,
+				FADE04D11A76718500F67821 /* continue_taped.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -229,6 +298,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FADE04A21A764B4900F67821 /* GameViewController.m in Sources */,
+				FADE04C11A765BA300F67821 /* popUpMenu.m in Sources */,
 				FADE049A1A764B4900F67821 /* AppDelegate.m in Sources */,
 				FADE049D1A764B4900F67821 /* GameScene.m in Sources */,
 				FADE04971A764B4900F67821 /* main.m in Sources */,
@@ -356,6 +426,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = popUpMenuAfterSuccessOrFailureOrPauseInLevel/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -366,6 +437,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = popUpMenuAfterSuccessOrFailureOrPauseInLevel/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};

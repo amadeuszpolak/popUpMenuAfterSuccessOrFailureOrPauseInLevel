@@ -8,6 +8,6 @@
 
 @import SpriteKit;
 
-@interface GameScene : SKScene
+@interface NextGameScene : SKScene
 
 @end
